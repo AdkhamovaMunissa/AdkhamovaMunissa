@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Adkhamova Munissa</h1>
 <h3 align="center">A computer science enthusiast with a strong drive to innovate.</h3> 
-<br>👨‍💻My journey has been filled with exciting software and AI projects, <br>both as a solo explorer and a collaborative team member. <br>Currently, I am working on the implementation of a serious game using Unity Engine and C#.<br>These experiences have shaped me into a skilled problem solver with a keen analytical mindset. <br>I'm thrilled to contribute my knowledge, skills, and unwavering enthusiasm to the world of cutting-edge technology. <br>Let's create something extraordinary together! ✨
+ <br><br>👨‍💻My journey has been filled with exciting software and AI projects, both as a solo explorer and a collaborative team member. <br><br>🔭 Currently, I am working on the implementation of a serious game using Unity Engine and C#. <br>  These experiences have shaped me into a skilled problem solver with a keen analytical mindset. <br><br> ✨ I'm thrilled to contribute my knowledge, skills, and unwavering enthusiasm to the world of cutting-edge technology. <br>Let's create something extraordinary together! 
 
 
 ## 🌐 Socials:
